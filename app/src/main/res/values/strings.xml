@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">KeoveCase</string>
+    <string name="app_name" translatable="false">KeoveCase</string>
+    <string name="login">Login</string>
+    <string name="username_empty">Username Empty</string>
+    <string name="password_empty">Password Empty</string>
+    <string name="hint_for_get_rid_of_lint_warning">Hint like hint</string>
+    <string name="press_to_exit">Press BACK again to exit</string>
+    <string name="celcius" translatable="false">Celcius: </string>
+    <string name="user_password_wrong">Username / Password Wrong!</string>
 </resources>

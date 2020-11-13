@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Giriş Yap</string>
+    <string name="username_empty">Kullanıcı Adı Boş</string>
+    <string name="password_empty">Şifre Boş</string>
+    <string name="press_to_exit">Çıkmak için GERİ tuşuna tekrar basın</string>
+    <string name="user_password_wrong">Kullanıcı Adı / Şifre Yanlış!</string>
+    <string name="hint_for_get_rid_of_lint_warning">Hint gibi hint</string>
+</resources>
